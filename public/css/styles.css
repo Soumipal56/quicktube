@@ -13,7 +13,7 @@ body{
 
 .top-container{
   height: 40vh;
-  background-color: red;
+  background: linear-gradient(red, white, rgb(241, 25, 61));
 }
 
 .bottom-container{
